@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "320689859510",
+    "project_id": "tesloginregis-ef264",
+    "storage_bucket": "tesloginregis-ef264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320689859510:android:d2971c8c0ecd4295a5ef17",
+        "android_client_info": {
+          "package_name": "com.example.login_and_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvrPP-6sH6L7_Nap05k-ZLUyZL3KOUqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
